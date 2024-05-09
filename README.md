@@ -4,4 +4,5 @@ Operating System for the WWW
 Visit https://shipwr3ck.com to find out more.
 ### Features:
 1. Logical Terminal - Over 57 commands
-![Alt Logical Terminal](image [link](https://i.ibb.co/xH4xpx0/Screenshot-05-09-2024-15-16-21.png))
+###
+![Alt Logical Terminal](https://i.ibb.co/xH4xpx0/Screenshot-05-09-2024-15-16-21.png)
