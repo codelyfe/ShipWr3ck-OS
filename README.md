@@ -9,7 +9,7 @@ Visit https://shipwr3ck.com to find out more.
 ###
 2. Infinite OS Sessions
 ### 
-![Alt Infinite OS Sessions]([https://i.ibb.co/xH4xpx0/Screenshot-05-09-2024-15-16-21.png](https://i.ibb.co/hDMdjQ1/Screenshot-05-09-2024-15-48-17.png))
+![Alt Infinite OS Sessions](https://i.ibb.co/hDMdjQ1/Screenshot-05-09-2024-15-48-17.png)
 ###
 3. More Features will be added soon! 
 ### Sign up to test out!
