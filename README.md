@@ -1,5 +1,5 @@
 # ShipWr3ck-OS
-Operating System for the WWW
+Operating System for the WWW ( Over 122+ Apps )
 ## COMING SOON
 Visit https://shipwr3ck.com to find out more.
 ### Features:
