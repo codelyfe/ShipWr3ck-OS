@@ -63,6 +63,7 @@ Visit https://shipwr3ck.com to find out more.
 - show: Displays TV show info ("show sheldon")
 - show-people: Displays TV show people info ("show-people tom hanks")
 - fakem: Create a fake person IMG ("fakem")
+- More Added Everyday!
 ```
 
 
