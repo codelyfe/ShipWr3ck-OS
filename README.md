@@ -9,6 +9,12 @@ Visit https://shipwr3ck.com to find out more.
 ![Alt Logical Terminal](https://i.ibb.co/xH4xpx0/Screenshot-05-09-2024-15-16-21.png)
 ###
 ```
+##########################################################
+Available commands ( 61 Commands ):
+##########################################################
+
+- mudduck: 🦆
+- help: Show available commands
 - pwd : Generate a random password with specified length
 - clear: Clear the terminal
 - say : Display text in random colors
@@ -64,6 +70,9 @@ Visit https://shipwr3ck.com to find out more.
 - show: Displays TV show info ("show sheldon")
 - show-people: Displays TV show people info ("show-people tom hanks")
 - fakem: Create a fake person IMG ("fakem")
+- ga4: Scan website for Google Tag ("ga4")
+- wpcheck: Scan website for wp-content ("wpcheck")
+- awcheck: Scan website for Ad Words ("awcheck")
 - More Added Everyday!
 ```
 
