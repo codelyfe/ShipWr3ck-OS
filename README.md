@@ -4,7 +4,7 @@ Operating System for the WWW ( Over 122+ Apps )
 ## COMING SOON
 Visit https://shipwr3ck.com to find out more.
 ### Features:
-1. Logical Terminal - Over 58 commands
+1. Logical Terminal
 ###
 ![Alt Logical Terminal](https://i.ibb.co/xH4xpx0/Screenshot-05-09-2024-15-16-21.png)
 ###
