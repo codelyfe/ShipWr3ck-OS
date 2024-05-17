@@ -1,5 +1,5 @@
 # ShipWr3ck-OS
-Operating System for the WWW ( Over 122+ Apps )
+Operating System for the WWW ( Over 133+ Apps )
 - Mission: Provide Technology to Everyone, no matter what device they're on or where they're at. 
 ## COMING SOON
 Visit https://shipwr3ck.com to find out more.
